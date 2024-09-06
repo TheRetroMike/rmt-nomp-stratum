@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "https://github.com/TheRetroMike/tribus-stratum-hashing.git",
-        "bignum": "0.12.5",
+        "bignum": "*",
         "base58-native": "*",
         "async": "*"
     },
