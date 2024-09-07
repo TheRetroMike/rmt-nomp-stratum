@@ -28,7 +28,7 @@
         "url": "https://github.com/carsenk/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/TheRetroMike/tribus-stratum-hashing.git",
+        "multi-hashing": "https://github.com/TheRetroMike/rmt-stratum-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
